@@ -16,7 +16,7 @@ I'm **Sangam Shrestha**, a passionate **DevOps Engineer** from [Your Country Fla
 ### 🚀 DevOps and Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-blue?style=for-the-badge&logo=digitalocean&logoColor=white)
+
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
