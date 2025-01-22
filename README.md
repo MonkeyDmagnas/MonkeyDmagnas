@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Sangam Shrestha**, a passionate **DevOps Engineer** from [Your Country Flag] who loves building scalable and automated solutions.
+I'm **Sangam Shrestha**, a passionate **DevOps Engineer** from Nepal who loves building scalable and automated solutions.
 
 ---
 
